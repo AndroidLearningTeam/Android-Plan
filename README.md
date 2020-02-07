@@ -9,3 +9,5 @@
 
 2. 将权限分为两类，可给的，不可给的
 
+![](https://github.com/AndroidLearningTeam/Android-Plan/blob/master/Res/1.PNG)
+![](https://github.com/AndroidLearningTeam/Android-Plan/blob/master/Res/2.PNG)

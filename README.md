@@ -4,10 +4,11 @@
 ## Plan
 
 
+1. 选择应用商店，爬虫获取APP的功能描述和权限申请内容。
 
-1. 建立数据库，每个APP对应什么不同的权限，具有什么功能
+2. 建立数据库，每个APP对应什么不同的权限，具有什么功能
 
-2. 将权限分为两类，可给的，不可给的
+3. 将权限分为两类，可给的，不可给的
 
 ![](https://github.com/AndroidLearningTeam/Android-Plan/blob/master/Res/1.PNG)
 ![](https://github.com/AndroidLearningTeam/Android-Plan/blob/master/Res/2.PNG)

@@ -1,5 +1,10 @@
 # --** coding="UTF-8" **--
 
+'''
+使用方法：
+和AXMLPrinter2.jar一起放在.apk文件同一目录下运行
+'''
+
 import os
 import re
 import sys
@@ -17,8 +22,8 @@ for file in os.listdir(currentpath):
 
 bat_name = "temp.bat"
 bat_path = previouspath + "\\" + bat_name
-## /r 后接目录 app
-s1 = """for %%a in (*.xml) do @java -jar AXMLPrinter2.jar "%%a" >>"%%a".txt """
+
+s1 = """for %%a in (*.xml) do @java -jar AXMLPrinter2.jar "%%a" >> "%%a".txt """
 
 
 def change_zip():

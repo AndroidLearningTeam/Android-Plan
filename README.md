@@ -12,3 +12,12 @@
 
 ![](https://github.com/AndroidLearningTeam/Android-Plan/blob/master/Res/1.PNG)
 ![](https://github.com/AndroidLearningTeam/Android-Plan/blob/master/Res/2.PNG)
+
+
+### 
+
+1. 爬取华为应用商店软件".apk"文件
+https://github.com/AndroidLearningTeam/Android-Plan/blob/master/Crawler.py
+
+2. 批处理".apk"文件, 提取应用xml描述文档
+https://github.com/AndroidLearningTeam/Android-Plan/blob/master/get_xml.py
